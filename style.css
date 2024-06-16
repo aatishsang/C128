@@ -1,0 +1,20 @@
+body
+{
+    background-color: yellow;
+}
+
+#score {
+    font-size: 25px;
+    margin: left 50px;
+}
+
+#Timer {
+    font-size: 25px;
+    float: right;
+    margin: right 50px;
+}
+
+#sketch
+{
+    color: yellow;
+}
